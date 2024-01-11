@@ -1,0 +1,6 @@
+to print 
+4321
+4321
+4321
+4321
+Here we can just traverse while printing the (n-1)th value in each inner LOOP

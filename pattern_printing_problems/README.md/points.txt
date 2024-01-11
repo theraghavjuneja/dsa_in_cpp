@@ -1,0 +1,21 @@
+PATTERNS LIKE
+123
+123
+123
+or
+abcd
+bcde
+fghi
+ghij 
+
+are called rectangular patterns . HERE APPLY FOR (INT I=0;i<n)
+and for(int j=0;j<n)
+
+NOW OTHER VARIETY IS TRINAGULAR PATTERN
+WHERE U HAVE CONDITION IF(J<=I)
+either impose the condition in loop only
+for(int j=0;j<=I)
+or for(int j=0lj<n)
+{
+    if(j<=i) like this
+}

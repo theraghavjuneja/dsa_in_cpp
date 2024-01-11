@@ -1,0 +1,6 @@
+1
+2 3
+3 4 5
+TO SOLVE PROBLEMS WHEERE THE relation cant directly be seen while seeing
+just draw a matrix of above representation and check a relation beween i and J
+So it has to print until i+j-1

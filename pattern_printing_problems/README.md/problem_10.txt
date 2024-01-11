@@ -1,0 +1,6 @@
+1
+21
+321
+4321
+ need to print from i to 1 {each row}
+ so just apply j<=i and cout the above condn

@@ -1,0 +1,6 @@
+ABC 
+ABC
+ABC 
+need to print like this
+assume A=1 and start printing 
+and then convert to corr ascii'

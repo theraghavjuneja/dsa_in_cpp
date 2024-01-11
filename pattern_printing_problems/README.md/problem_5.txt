@@ -1,0 +1,8 @@
+need to print
+123
+456
+789
+It may change depending on the number of rows and COLUMNS
+
+IOMANIP:
+IT SPECIFIES THE WIDTH FOR EACH ONE OF THE NUMBERS USING SETW METHOD

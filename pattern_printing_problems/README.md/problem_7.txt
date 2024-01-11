@@ -1,0 +1,7 @@
+1
+22
+333
+4444
+and so on
+here again i have got a triangular pattern i need to print until
+j<i and also here I need to print the value of I

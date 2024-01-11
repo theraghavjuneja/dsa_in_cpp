@@ -1,0 +1,7 @@
+NOW HERE I HAVE TO PRINT SOMETHING LIKE
+    *
+   **
+  ***
+ ****
+*****
+SO HERE I CAN SEE IF (i+J<=N) THEN SPACE PRINT ELSE *

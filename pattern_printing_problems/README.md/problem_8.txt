@@ -1,0 +1,8 @@
+1
+23
+456
+78910
+ same condiiton to follow just with the diffrence that 
+ here i need to print from 1 to ending
+ so before the loop jusr declare a number as 1 and keepon inreasing it at every iteragion
+ 

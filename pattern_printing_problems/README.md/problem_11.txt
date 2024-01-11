@@ -1,0 +1,13 @@
+AAA
+BBB
+CCC
+VERY SIMILAR TO RECTANGULAR PATTERN FROM 1
+Refer to problem_2.cpp
+Just I need to print alphabetically 
+So I need to convert num->alphabetically
+for that I have two things 
+1.) either remember ascii value of A and A
+if u remember then directly use char(i+65)
+as ascii A=65
+else char ch="A"+i-1;
+cout<<ch
