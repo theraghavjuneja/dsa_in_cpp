@@ -50,6 +50,3 @@ Node *solve(int index,vector<int>&arr)
     
 
 }
-Node* createTree(vector<int>&arr){
-    return solve(0,arr); 
-}
