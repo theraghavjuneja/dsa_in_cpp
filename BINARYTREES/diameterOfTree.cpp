@@ -37,3 +37,5 @@ int diameter(node *root)
     int ans=max(op1,max(op2,op3));
     return ans;
 }
+
+
